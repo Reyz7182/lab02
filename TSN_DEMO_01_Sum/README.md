@@ -1,4 +1,4 @@
-# TSN_DEMO_01_Sum
+# Lab
 Сумма двух цифр
-![Screenshot](screenshot.png)
+![Screenshot](1.png)
 
